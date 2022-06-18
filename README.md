@@ -1,4 +1,4 @@
-# 👋 Hi, that's @RussianFlexZ
+# 👋 Hi, that's @Bolderaysky
 ## 👀 About my interests
 I'm Python/C++ desktop developer. In the past, I was also developing software for microcontrollers and mobile platforms. I’m currently improving my C++ skills.
 ## What I'm currently doing
